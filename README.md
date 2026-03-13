@@ -9,12 +9,6 @@ Interactive Sales Dashboard built using Power BI
 
 This dashboard helps stakeholders quickly identify top-performing products, profitable regions, and sales distribution patterns.
 
-🖼 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-![Superstore Dashboard](dashboard.png)
-🎯 Project Objective
 
 The objective of this dashboard is to:
 
